@@ -1,2 +1,2 @@
 # Generating-unit-distributions
-We apply cumulative distribution functions (CDFs) of any two continuous random variables with the same support to creatively construct a series of distributions for fitting proportional data.
+We apply cumulative distribution functions (CDFs) of any two continuous random variables with the same support to creatively construct a series of distributions for fitting proportional data. Traditionally, the modeling of proportional data has been limited to tools such as the beta distribution, simplex distribution, and proportional inverse Gaussian distribution. 
